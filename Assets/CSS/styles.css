@@ -31,10 +31,18 @@
 
 .navbar{
     text-align: center;
+    
 }
 
-.navbar li{
+.navbar ul li {
     text-align: center;
     list-style-type: none;
     display: inline-block;
+    margin: auto;
+    padding-left: 20px;
+    
+}
+
+.navbar ul li a{
+    
 }
