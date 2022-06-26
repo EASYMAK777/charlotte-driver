@@ -1,3 +1,23 @@
+body, html {
+    height: 100%;
+    width: 90%;
+    margin: 0 auto;
+    
+  }
+  
+  .bg {
+    /* The image used */
+    background-image: url("../Images/CLT-skyline-1440x580.gif");
+  
+    /* Full height */
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
 #nav{
     background-color: black;
     text-align: center;
