@@ -1,6 +1,6 @@
 body, html {
     height: 100%;
-    width: 90%;
+    width: 100%;
     margin: 0 auto;
     
   }
@@ -21,7 +21,8 @@ body, html {
 #nav{
     background-color: black;
     text-align: center;
-    margin-bottom: -30px;
+    margin-bottom: 40px;
+    padding-bottom: 50px;
     
     }
 
