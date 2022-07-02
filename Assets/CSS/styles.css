@@ -4,6 +4,10 @@ body, html {
     margin: 0 auto;
     
   }
+
+  .bg{
+    height: 100%;
+  }
   
   
   
@@ -144,10 +148,10 @@ img{
     top: 0;
    
   }
-
+/* 
   .overlay:hover{
     display: none;
-  }
+  } */
 
 
   
@@ -164,5 +168,11 @@ img{
     
   }
 
+  #button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
   
   
