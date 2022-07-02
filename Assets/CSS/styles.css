@@ -78,7 +78,7 @@ ul li a:hover{
 
 
 
-/* img{
+img{
     max-width: 100%;
     height: auto;
     display: block;
@@ -86,7 +86,7 @@ ul li a:hover{
     margin-right: auto;
     width: 50%;
     margin-top: 40px;
-} */
+}
 
 #mission p {
     display: flex;
